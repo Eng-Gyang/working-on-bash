@@ -1,0 +1,38 @@
+ .Adamugyang.sh.swp
+        .bash.rc.swp
+        .bash_history
+        .bash_logout
+        .bashrc
+        .cache/
+        .file2f.swp
+        .gitconfig
+        .jjjjjjj.swp
+        .lesshst
+        .motd_shown
+        .profile
+        .profile.save
+        .sambo.txt.swp
+        .selected_editor
+        .ssh/
+        .sudo_as_admin_successful
+        .swn
+        .swo
+        .swp
+        .vim/
+        .viminfo
+        Bash-scripting/
+        backup/
+        git-status-report.sh
+        github/
+        lab3-repro/
+        my-lab3-project/
+        my-repo/
+        my-repo2/
+        my_new_app_store/
+        myscripts/Bash-scripting/
+        silliconvalley/
+        test/
+        troubleshouting/
+
+nothing added to commit but untracked files present (use "git add" to track)
+gyang@ADAMUDUNG-LOCAL-SERVER:~$
